@@ -1,0 +1,8 @@
+# things that belong to THIS computer's screen / runs
+selection.pkl
+selection_*.pkl
+settings.json
+debug_crystal/
+crystal_symbols/new/
+__pycache__/
+*.pyc
